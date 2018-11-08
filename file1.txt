@@ -2,3 +2,7 @@
 
 modifica documento
 contenuto modificato nel clone
+
+#terzo doc
+
+file3
